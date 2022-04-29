@@ -1,0 +1,8 @@
+db/
+log/
+node_modules/
+public/packs-test/
+public/packs/
+storage/
+tmp/
+vendor/

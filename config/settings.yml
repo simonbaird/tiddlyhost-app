@@ -24,7 +24,8 @@ defaults:
 development:
   url_defaults:
     :host: tiddlyhost.local
-    :protocol: https
+    :protocol: http
+    :port: 3333
 
   tiddlyspot_host: tiddlyspot.local
 
