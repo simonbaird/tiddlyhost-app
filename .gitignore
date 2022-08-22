@@ -1,0 +1,16 @@
+vendor/
+tmp/
+log/
+storage/
+tw_content/empties/prerelease.html
+node_modules/
+public/assets/
+public/packs/
+public/packs-test/
+public/jsMath/
+public/build-info.txt
+config/master.key
+config/credentials.yml.enc
+config/credentials/development.key
+config/credentials/development.yml.enc
+.byebug_history
